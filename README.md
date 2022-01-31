@@ -1,8 +1,8 @@
 
-# T-20 WORLD CUP 2021 PREDICTION
+# T-20 WORLD CUP 2019 PREDICTION
 
 
-![alt text](https://www.geo.tv/assets/uploads/updates/2021-08-17/365687_7152531_updates.jpg)
+![alt text](https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/ICC_Cricket_World_Cup_2019_logo.svg/1200px-ICC_Cricket_World_Cup_2019_logo.svg.png)
 
 # Main Goal
 - The goal of the project is to predict the ICC T20 World Cup Winner of 2021 based on the data of teams e.g Wins, Stats, Players Combinations etc. 
