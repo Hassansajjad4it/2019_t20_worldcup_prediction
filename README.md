@@ -14,7 +14,6 @@
 - Data Collection/Scraping
 - Data Visualization
 - Dashboarding
-- Prediction
 
 # References
 - https://github.com/Turing551/ICC-Cricket-World-Cup-2019
