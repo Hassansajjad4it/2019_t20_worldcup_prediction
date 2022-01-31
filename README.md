@@ -2,7 +2,7 @@
 # T-20 WORLD CUP 2019 PREDICTION
 
 
-![alt text](https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/ICC_Cricket_World_Cup_2019_logo.svg/1200px-ICC_Cricket_World_Cup_2019_logo.svg.png)
+![alt text](https://www.sportzpower.com/sites/default/files/2019-05/ICC%20Cricket%20World%20Cup%202019%20logo1.jpg)
 
 # Main Goal
 - The goal of the project is to predict the ICC T20 World Cup Winner of 2021 based on the data of teams e.g Wins, Stats, Players Combinations etc. 
