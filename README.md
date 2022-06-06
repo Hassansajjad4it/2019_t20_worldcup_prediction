@@ -5,7 +5,7 @@
 ![alt text](https://www.sportzpower.com/sites/default/files/2019-05/ICC%20Cricket%20World%20Cup%202019%20logo1.jpg)
 
 # Main Goal
-- The goal of the project is to predict the ICC T20 World Cup Winner of 2021 based on the data of teams e.g Wins, Stats, Players Combinations etc. 
+- The goal of the project is to predict the ICC T20 World Cup Winner of 2019 based on the data of teams e.g Wins, Stats, Players Combinations etc. 
 
 # Primary Objective
 - Our primary focus will be on Exploratory Data analysis and Dashboarding. Once that is successfully completed, we will proceed to the application of Machine Learning to predict the winner and the best performing players.
